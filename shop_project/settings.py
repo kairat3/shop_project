@@ -25,7 +25,7 @@ SECRET_KEY = ' '
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fathomless-sea-09213.herokuapp.com', 'localhost']
 
 
 # Application definition
